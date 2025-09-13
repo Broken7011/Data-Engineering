@@ -1,1 +1,24 @@
-hello s 
+["DATA"] --> # THE NEW GOLD 
+ ---> Data Engineer
+   == HADOOP (1.x , 2.x , 3.x Architecture)
+   == HIVE (similar to "SQL") ==> DATA WAREHOUSING SOLUTION 
+   == SQOOP (to transfer hadoop to sql or vice versa)
+   "Sql --> Hadoop"
+   == Hbase (database)
+   == MongoDB
+   == Cassandra
+   == SQL (mysql,mssql,oracle)
+   == Zookeeper
+   == Kafka
+   == Spark
+   == CI/CD
+   == ETL 
+   == Informatice / Talend (not mandatory)
+   == Nifi
+   == Oozie
+   == Airflow (to schedule jobs  )   
+   == Programming
+   == Cloud
+   == Project
+ ----> Data Analyst # NOT IN CURRICULM
+ ----> Data Scientist # LATER ON ML
