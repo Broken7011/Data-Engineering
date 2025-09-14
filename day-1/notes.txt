@@ -22,3 +22,29 @@
    == Project
  ----> Data Analyst # NOT IN CURRICULM
  ----> Data Scientist # LATER ON ML
+
+# BATCH mode --> once a day , twice a day
+# Mini batch --> once a minute , twice a minute
+# Realtime --> Streaming data 
+"LOCAL ------"
+"ERP   ------" 
+"CRM   ------" } JSON / TXT/ CSV / PRQ / any data format 
+"REALTIME ---"
+"SQL   ------"
+
+Data engineers streamline the data processing frequency in a pipeline
+ETL (Extract Transform Load )
+ELT (Extract Load Transform )
+
+> How will I extract the data from different sources (API,Connector)
+> Optimize the data 
+> Then provide the data whenever they need the data for further usage 
+> Verizon Hum device ---> Crash Response, Vehicle Diagnostics, Auto Health, Driving History etc 
+ 
+
+"CLOUDERA" / "HORTONWork" / "MAPR"
+# those were the market players providing hadoop distribution
+ ```
+  Cloudera is an environment which providing Hadoop
+  distribution working on virtualbox
+ ```
