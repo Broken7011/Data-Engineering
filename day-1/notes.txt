@@ -48,3 +48,18 @@ ELT (Extract Load Transform )
   Cloudera is an environment which providing Hadoop
   distribution working on virtualbox
  ```
+
+ ~ 3 Vs of BIG DATA 
+
+ 1. Volume -> PB , MB , ZB , KB , TB, EB 
+ 2. Variety -> Sturcture, Un-structure , Semi structure
+ 3. Velocity -> batch , Near-time , Stream 
+ 4. Veracity -> Trust in terms of Accuracy
+ 5. Value    -> what is value of the data / USECASE (likes,posts,stories [FOR SEGREGATION])
+ Big data is having above 5 Vs - Volume , Variety , Velocity , Veracity , Value 
+
+
+
+A. HDFS -->
+hadoop file system -- 1.x , 2.x , 3.x Architecture
+  
